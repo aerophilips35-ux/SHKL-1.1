@@ -6,11 +6,11 @@ export default function Navigation() {
 
   return (
     <nav className="fixed top-4 left-1/2 transform -translate-x-1/2 z-50 w-[95%] max-w-7xl">
-      <div className="bg-black/20 backdrop-blur-md rounded-full border border-cream-200/10 px-8 py-4">
+      <div className="bg-black/10 backdrop-blur-md rounded-full border border-cream-200/20 px-8 py-4">
         <div className="flex justify-between items-center">
           <div className="flex-shrink-0">
             <img
-              src="/SHKL footing header2.png"
+              src="/SHKL 3.png"
               alt="SHKL"
               className="h-10 w-auto"
             />

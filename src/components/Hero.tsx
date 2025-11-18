@@ -9,15 +9,15 @@ export default function Hero() {
           alt=""
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/60 to-black"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/50 to-black/70"></div>
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-8 py-24 text-center">
         <div className="mb-12">
           <img
-            src="/SHKL footing header2.png"
+            src="/SHKL 3.png"
             alt="SHKL Logo"
-            className="w-full max-w-2xl mx-auto mb-6 animate-fade-in"
+            className="w-full max-w-xl mx-auto mb-6 animate-fade-in"
           />
         </div>
 

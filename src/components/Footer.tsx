@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           <div>
             <img
-              src="/SHKL footing header2.png"
+              src="/SHKL 3.png"
               alt="SHKL"
               className="h-10 w-auto mb-4"
             />
